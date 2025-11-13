@@ -1,6 +1,5 @@
-# app.py (Updated for Gemini + mental-health focus)
-#$env:GEMINI_API_KEY="AIzaSyARyBctw7DSDfBJ97g5Iw7FiBh9zQ03u_M"
-# app.py (Render deployment ready)
+
+
 
 from flask import Flask, request, jsonify
 from flask_cors import CORS
